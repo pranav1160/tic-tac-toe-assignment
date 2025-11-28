@@ -51,21 +51,5 @@ TicTacToe/
 * **GameLogic.swift** — Win pattern detection
 * **ContentView.swift** — Main UI
 
-Customize colors & animations in **Constants.swift**.
-
-## 🤝 Contributing
-
-Pull requests and feature ideas are always welcome!
-
-## 📝 License
-
-MIT — free to use, modify, and learn from.
-
----
-
 Built with ❤️ using SwiftUI.
 **Star the repo** if you like it — it helps others find it! 🚀
-
----
-
-Want an even shorter version (like a GitHub README 10-liner)? I can do that too.
